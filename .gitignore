@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Django
+db.sqlite3
+*.sqlite3
+*.log
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Node / React
+node_modules/
+dist/
+.vite/
+
+# Local/private project notes
+Current progress.txt
+Login credentials.txt
+MCQ_Examination_System_AI_Feature_Ideas.docx
+Phases.txt
+read ai.md file and create the give.txt
